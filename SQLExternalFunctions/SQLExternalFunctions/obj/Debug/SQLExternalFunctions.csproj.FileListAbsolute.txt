@@ -1,0 +1,6 @@
+C:\Users\mahammadvm\Desktop\SQLExternalFunctions\SQLExternalFunctions\bin\Debug\SQLExternalFunctions.dll
+C:\Users\mahammadvm\Desktop\SQLExternalFunctions\SQLExternalFunctions\bin\Debug\SQLExternalFunctions.pdb
+C:\Users\mahammadvm\Desktop\SQLExternalFunctions\SQLExternalFunctions\obj\Debug\SQLExternalFunctions.csproj.AssemblyReference.cache
+C:\Users\mahammadvm\Desktop\SQLExternalFunctions\SQLExternalFunctions\obj\Debug\SQLExternalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\mahammadvm\Desktop\SQLExternalFunctions\SQLExternalFunctions\obj\Debug\SQLExternalFunctions.dll
+C:\Users\mahammadvm\Desktop\SQLExternalFunctions\SQLExternalFunctions\obj\Debug\SQLExternalFunctions.pdb
